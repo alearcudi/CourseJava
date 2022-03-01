@@ -12,6 +12,7 @@ import javax.swing.JOptionPane;
 
 public class Buscador extends javax.swing.JFrame {
 
+    
     /**
      * Creates new form Buscador
      */
